@@ -42,6 +42,7 @@ RUN \
     mesa-libGLU-devel \
     xcb-util-keysyms \
     xcb-util-image \
+    libxkbcommon-x11 \
   && \
   #
   # libQt5WebEngineCore
